@@ -7,7 +7,7 @@
 How to reach me: itsmeusnice@gmail.com
 
 
-👨‍💻 Programming languages
+👨‍💻 Programming languages:
  C
  CSS
  HTML 
@@ -18,13 +18,13 @@ How to reach me: itsmeusnice@gmail.com
  SQL
  TypeScript
 
- 🧰 Frameworks and libraries
+ 🧰 Frameworks and libraries:
  Arduino 
  Bootstrap
  Express.js 
  React
 
-🗄️ Databases and Cloud Hosting
+🗄️ Databases and Cloud Hosting:
 
  MongoDB
  MySQL 
