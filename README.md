@@ -23,6 +23,8 @@ How to reach me: itsmeusnice@gmail.com
  Bootstrap
  Express.js 
  React
+ next.js
+ 
 
 🗄️ Databases and Cloud Hosting:
 
