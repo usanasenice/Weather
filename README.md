@@ -8,12 +8,9 @@
 
 
 ### Technologies Used 💻
-
-- **React**: Crafted with the mystical powers of React, this frontend sorcery brings forth user interfaces of unrivaled beauty.
 - **OpenWeatherAPI**: Unravel the mysteries of weather data with the aid of the OpenWeatherAPI.
-- **Axios**: A trusty ally in the realm of HTTP requests, ensuring seamless communication with the API.
-- **Bootstrap**: Infuse your application with enchanting styles and responsiveness, courtesy of Bootstrap.
-- **React Router**: Navigate through the enchanted realms of WeatherWise with the aid of React Router.
+
+  
 ### Contributing 🤝
 
 Embark on a journey of collaboration and contribute to the further enhancement of WeatherWise! Whether you possess magical insights or encounter mysterious bugs, your contributions are greatly valued. Refer to our [contributing guidelines](CONTRIBUTING.md) to join our fellowship.
